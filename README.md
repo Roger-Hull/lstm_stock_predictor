@@ -6,9 +6,3 @@ After creating the LSTM models based on the FNG (Bitcoin Fear and Greed Index) a
 
 # Window size Comparison
 The tested window sizes include 10 days, predicing the 11th day, 5 days, predicing the 6th day, and 20 days, predicting the 21st day. In all cases, the 10 day window provided the lowest loss function.
-
-# Prediction Based on Closing Prices
-![closing] (photos/closing_prices_photo.PNG)
-
-# Prediciton Based on FNG Index
-![FNG] (photos/fng_prices_photo.PNG)
